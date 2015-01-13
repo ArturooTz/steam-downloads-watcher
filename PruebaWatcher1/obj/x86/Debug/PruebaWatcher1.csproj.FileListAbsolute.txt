@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\bin\Debug\PruebaWatcher1.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\bin\Debug\PruebaWatcher1.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.pdb
