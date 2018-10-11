@@ -118,13 +118,14 @@ namespace PruebaWatcher1
             if (result == DialogResult.OK)
             {
                 string locat = "";
-                locat = path2 + "\\sdlocat.txt";
                 path1 = folderBrowserDialog1.SelectedPath;
-                System.IO.File.WriteAllText(@locat, path1);
-                button4.Enabled = true;
-                if (path1.Contains("Steam\\steamapps\\downloading"))
+                locat = path2 + "\\sdlocat.txt";
+                if (path1.Contains("steamapps\\downloading"))
                 {
+                    
+                    System.IO.File.WriteAllText(@locat, path1);
                     textBox1.Text = path1;
+                    button4.Enabled = true;
                     if (IsDirectoryEmpty(path1) == true)
                     {
                         label1.Text = "There are no downloads in progress.";
@@ -140,7 +141,7 @@ namespace PruebaWatcher1
                 }
                 else
                 {
-                    MessageBox.Show("That is not the Steam Downloads folder.");
+                    MessageBox.Show("That is not a valid Steam Downloads folder.");
                 }
 
             }

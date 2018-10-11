@@ -6,3 +6,11 @@ C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\Prue
 C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\bin\Debug\PruebaWatcher1.pdb
 C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.exe
 C:\Users\Administrator\documents\visual studio 2010\Projects\PruebaWatcher1\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\steam-downloads-watcher\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\steam-downloads-watcher\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\steam-downloads-watcher\PruebaWatcher1\bin\Debug\PruebaWatcher1.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\steam-downloads-watcher\PruebaWatcher1\bin\Debug\PruebaWatcher1.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\steam-downloads-watcher\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\steam-downloads-watcher\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.Form1.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\steam-downloads-watcher\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\steam-downloads-watcher\PruebaWatcher1\obj\x86\Debug\PruebaWatcher1.csproj.GenerateResource.Cache
