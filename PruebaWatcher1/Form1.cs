@@ -231,12 +231,10 @@ namespace PruebaWatcher1
             {
                 List<string> lel = new List<string>();
                 Process[] localAll = Process.GetProcesses();
-                for (sbyte i = 0; localAll.Count() > i; i++)
+                int nProcess = localAll.Count();
+                for (byte i = 0; nProcess > i; i++)
                 {
-                    if (localAll[i].ProcessName == "Steam")
-                    {
-                        localAll[i].Kill();
-                    }
+                    if (localAll[i].ProcessName == "Steam") { localAll[i].Kill(); }
                 }
                 Process.Start("shutdown", "/s /t 0");
                 Application.Exit();
